@@ -36,9 +36,9 @@ I am a first-year PhD candidate at the HKUST NLP Group. I graduated from Shangha
 
 ## Publications
 
-1. Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). **“SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.”** *arXiv*.  
+1. Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). **“SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.”** *Arxiv*.  
    First author. GitHub code repository available.
-2. Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). **“On the Perception Bottleneck of VLMs for Chart Understanding.”** *arXiv*.  
+2. Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). **“On the Perception Bottleneck of VLMs for Chart Understanding.”** *Arxiv*.  
    First author. GitHub code repository: Vision4Chart.
 3. Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). **“On the Universal Truthfulness Hyperplane Inside LLMs.”** *EMNLP 2024*.  
    First author. GitHub code repository: Universal_Truthfulness_Hyperplane.
